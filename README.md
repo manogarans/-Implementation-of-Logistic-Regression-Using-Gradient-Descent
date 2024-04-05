@@ -63,7 +63,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![Screenshot 2024-03-28 074824](https://github.com/manogarans/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139331782/dc4a5693-5a8c-4535-8abf-b086897e7eeb)
 ![Screenshot 2024-04-05 205134](https://github.com/manogarans/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139331782/05b6727b-2e5b-415d-b45c-b60d1377a6b1)
 ![Screenshot 2024-04-05 205211](https://github.com/manogarans/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139331782/232a877b-0d0d-4dae-ae6d-940657ed0a90)
 ![Screenshot 2024-04-05 205306](https://github.com/manogarans/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139331782/fca3ed3d-2af1-4227-9880-c204b7bb7c69)
