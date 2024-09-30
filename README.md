@@ -14,11 +14,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4. Update Parameters: Update the weights and bias using the gradient descent update rule. Repeat steps 2-4 until convergence or a maximum number of iterations is reached.
 
 ## Program:
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: MANOGARAN S
-RegisterNumber:  212223240081
-*/
+# Program to implement the the Logistic Regression Using Gradient Descent.
+# Developed by: MANOGARAN S
+# RegisterNumber:  212223240081
 ```python
 import pandas as pd
 import numpy as np
